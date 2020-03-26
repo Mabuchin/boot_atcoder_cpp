@@ -1,0 +1,8 @@
+.config/atcoder-cli-nodejs/config.json
+.config/atcoder-cli-nodejs/session.json
+.config/configstore
+.cache
+.vscode-server
+.bash_history
+.devcontainer/.gitconfig
+.gitconfig
