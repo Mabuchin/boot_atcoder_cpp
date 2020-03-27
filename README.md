@@ -25,7 +25,7 @@ $ g++ -std=gnu++1y -O2 -I/opt/boost/gcc/include -L/opt/boost/gcc/lib -o ./a.out 
 ```
 ### 5. Run the test
 ```
-$ oj t
+$ oj t -d ./tests/
 ```
 ### 6. Submit the code
 ```
