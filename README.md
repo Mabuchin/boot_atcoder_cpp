@@ -7,6 +7,7 @@ online-jadge-tools usage : [https://online-judge-tools.readthedocs.io/en/master/
 ### 2. Login with atcoder-cli
 ```
 $ acc login
+$ oj login https://beta.atcoder.jp/ 
 ```
 ### 3. Fetch the contest
 If you want to fetch abc140/A, 
